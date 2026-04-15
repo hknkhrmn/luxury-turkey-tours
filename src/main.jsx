@@ -8,3 +8,5 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+// It starts the React application and renders the root component of the entire app, App to the screen. 
+// StrictMode provides additional checks during development.
