@@ -99,41 +99,6 @@ npm install
 # 3. Start development server
 npm run dev
 ```
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output will be in the `dist/` folder — ready to deploy.
-
----
-
-## 🌐 Deployment
-
-This is a fully **static site** — no backend required. Deploy anywhere for free:
-
-### Vercel (Recommended)
-
-```bash
-npm install -g vercel
-vercel
-```
-
-Or connect your GitHub repository at [vercel.com](https://vercel.com) for automatic deployments on every push.
-
-### Netlify
-
-Drag and drop the `dist/` folder at [netlify.com/drop](https://app.netlify.com/drop).
-
-### GitHub Pages
-
-```bash
-npm run build
-# Push the dist/ folder contents to your gh-pages branch
-```
-
 ---
 
 ## 🎨 Design System
@@ -187,7 +152,7 @@ To replace images, swap the Unsplash URLs with your own hosted images or use a C
 
 ## 📄 License
 
-MIT © 2025 — Free to use and modify for personal and commercial projects.
+MIT © 2026 — Free to use and modify for personal and commercial projects.
 
 ---
 
