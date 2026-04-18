@@ -11,7 +11,7 @@
 
 ## ✨ Live Preview
 
-<!-- Buraya vercel linki gelecek -->
+![Click for Live Preview](https://luxuryturkey-tours.vercel.app/)
 
 ## 📸 Sections
 
