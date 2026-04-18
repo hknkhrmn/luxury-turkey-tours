@@ -11,13 +11,7 @@
 
 ## ✨ Live Preview
 
-```
-npm install && npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
+<!-- Buraya vercel linki gelecek -->
 
 ## 📸 Sections
 
